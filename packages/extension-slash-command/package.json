@@ -2,7 +2,6 @@
   "name": "@kameo/extension-slash-command",
   "description": "slash command extension for kameo",
   "version": "0.0.37",
-  "homepage": "https://kameo.dev",
   "license": "MIT",
   "keywords": [
     "kameo",

@@ -81,7 +81,7 @@ kameo.on('submit:result', (event) => {
 
 ## Documentation
 
-For full documentation, visit [kameo.dev](https://kameo.dev/getting-started/introduction/).
+For full documentation, refer to the project materials in this repository.
 
 Kameo is built on top of Tiptap (core package). To better understand how to work with Kameo, we recommend familiarizing yourself with the Tiptap API documentation:
 - [Tiptap Editor API](https://tiptap.dev/docs/editor/api/editor)

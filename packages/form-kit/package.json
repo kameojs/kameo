@@ -2,7 +2,6 @@
   "name": "@kameo/form-kit",
   "description": "form kit for kameo",
   "version": "0.0.37",
-  "homepage": "https://kameo.dev",
   "license": "MIT",
   "keywords": [
     "kameo",
