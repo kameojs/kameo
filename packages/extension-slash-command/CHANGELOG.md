@@ -1,5 +1,14 @@
 # @kameo/extension-slash-command
 
+## 0.0.38
+
+### Patch Changes
+
+- 11e6fdd: changeset
+- Updated dependencies [11e6fdd]
+  - @kameo/core@0.0.38
+  - @kameo/suggestion@0.0.38
+
 ## 0.0.37
 
 ### Patch Changes

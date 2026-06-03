@@ -1,7 +1,7 @@
 {
   "name": "@kameo/extension-list",
   "description": "list extension for kameo",
-  "version": "0.0.37",
+  "version": "0.0.38",
   "license": "MIT",
   "keywords": [
     "kameo",
@@ -21,11 +21,11 @@
     "dist"
   ],
   "devDependencies": {
-    "@kameo/core": "^0.0.37",
+    "@kameo/core": "^0.0.38",
     "@tiptap/extension-list": "^3.2.0"
   },
   "peerDependencies": {
-    "@kameo/core": "^0.0.37",
+    "@kameo/core": "^0.0.38",
     "@tiptap/extension-list": "^3.2.0"
   },
   "repository": {

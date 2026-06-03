@@ -1,7 +1,7 @@
 {
   "name": "@kameo/extension-link",
   "description": "link extension for kameo",
-  "version": "0.0.37",
+  "version": "0.0.38",
   "license": "MIT",
   "keywords": [
     "kameo",

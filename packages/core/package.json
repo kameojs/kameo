@@ -1,7 +1,7 @@
 {
   "name": "@kameo/core",
   "description": "Web form editor framework powered by ProseMirror",
-  "version": "0.0.37",
+  "version": "0.0.38",
   "license": "MIT",
   "keywords": [
     "kameo",
@@ -39,13 +39,13 @@
   },
   "devDependencies": {
     "@awesome.me/webawesome": "^3.0.0-beta.4",
-    "@kameo/pm": "^0.0.37",
+    "@kameo/pm": "^0.0.38",
     "lit": "3.3.0",
     "uuid": "^11.1.0"
   },
   "peerDependencies": {
     "@awesome.me/webawesome": "^3.0.0-beta.4",
-    "@kameo/pm": "^0.0.37",
+    "@kameo/pm": "^0.0.38",
     "lit": "3.3.0",
     "uuid": "^11.1.0"
   },

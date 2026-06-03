@@ -1,5 +1,13 @@
 # @kameo/extension-form-select
 
+## 0.0.38
+
+### Patch Changes
+
+- 11e6fdd: changeset
+- Updated dependencies [11e6fdd]
+  - @kameo/core@0.0.38
+
 ## 0.0.37
 
 ### Patch Changes

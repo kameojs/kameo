@@ -1,7 +1,7 @@
 {
   "name": "@kameo/extension-form-radio-group",
   "description": "form radio group extension for kameo",
-  "version": "0.0.37",
+  "version": "0.0.38",
   "license": "MIT",
   "keywords": [
     "kameo",
@@ -30,12 +30,12 @@
   ],
   "devDependencies": {
     "@awesome.me/webawesome": "^3.0.0-beta.4",
-    "@kameo/core": "^0.0.37",
+    "@kameo/core": "^0.0.38",
     "lit": "3.3.0"
   },
   "peerDependencies": {
     "@awesome.me/webawesome": "^3.0.0-beta.4",
-    "@kameo/core": "^0.0.37",
+    "@kameo/core": "^0.0.38",
     "lit": "3.3.0"
   },
   "repository": {
